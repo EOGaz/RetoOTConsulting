@@ -1,7 +1,4 @@
-# Datos del socio formador: no se versionan
-datos/*.xlsx
-datos/*.xls
-datos/*.csv
+# Salidas generadas por el pipeline y el tablero
 salida/
 *.db
 tablero/public/datos.json
